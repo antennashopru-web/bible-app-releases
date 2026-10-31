@@ -2,6 +2,6 @@
 
 Здесь лежат готовые версии Android-приложения «Библия». Приложение само проверяет `version.json` и предлагает обновиться.
 
-**Скачать последнюю версию:** [bible-1.19.apk](https://github.com/antennashopru-web/bible-app-releases/raw/main/bible-1.19.apk)
+**Скачать последнюю версию:** [bible-1.20.apk](https://github.com/antennashopru-web/bible-app-releases/raw/main/bible-1.20.apk)
 
 Все версии подписаны одним ключом: Android установит обновление только поверх приложения с той же подписью.

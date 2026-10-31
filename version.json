@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.19.apk",
-  "notes": "Обновления теперь приходят прямо в приложение"
+  "versionCode": 21,
+  "versionName": "1.20",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.20.apk",
+  "notes": "Новый дизайн: четыре раздела — Сегодня, Слово, Молитва, Мой путь — у каждого свой цвет. «Главное сейчас» и три кольца дня на главной."
 }
