@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.31.apk",
-  "notes": "«Земная жизнь» в новом дизайне: баннер с балансом дня, плитки с картинками, неделя и кольцо в «Моём дне», цели с процентами и люди кружками, кольца и график в «Теле»."
+  "versionCode": 33,
+  "versionName": "1.32",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.32.apk",
+  "notes": "Дневник, итог недели, колесо жизни и напоминания в новом дизайне. Исправлено: экран «Земной жизни» больше не уезжает вбок, заголовки не заходят под строку часов."
 }
