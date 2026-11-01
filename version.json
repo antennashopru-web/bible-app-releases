@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.28.apk",
-  "notes": "Меню стало проще: Сегодня · Духовная жизнь · Земная жизнь. Внутри каждого раздела — плитки-подразделы: Библия, Молитва, Письмо Богу, Наставник, Дух и характер, Свобода от привычек и другие; в Земной жизни — Мой день, Цели и люди, Тело, Смысл дня, Дневник, Итог недели."
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.29.apk",
+  "notes": "Файл ARGEDA.MD теперь называется «Память пути». Все записи сохранились."
 }
