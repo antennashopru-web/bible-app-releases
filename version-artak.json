@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.32.apk",
-  "notes": "Дневник, итог недели, колесо жизни и напоминания в новом дизайне. Исправлено: экран «Земной жизни» больше не уезжает вбок, заголовки не заходят под строку часов."
+  "versionCode": 34,
+  "versionName": "1.33",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.33.apk",
+  "notes": "«Духовная жизнь» в новом дизайне: картинки на плитках, правило дня и чтение Библии наверху, новые шапки у всех разделов."
 }
