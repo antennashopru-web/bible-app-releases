@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.39.apk",
-  "notes": "Новый раздел «Экономика» в «Земной жизни»: доходы и расходы, прибыль за месяц, долги (кто кому должен), кредиты и обязательства с напоминаниями."
+  "versionCode": 42,
+  "versionName": "1.41",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.41.apk",
+  "notes": "Новая вкладка «Я»: мои цели и 8 разделов — гигиена, вес, бросить курить, места, еда, траты, одежда, семья и любовь. А в «Земной жизни» — «Мои проекты»: папки и списки с галочками."
 }
