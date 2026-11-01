@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.35",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.35.apk",
-  "notes": "Новая иконка в стиле ARGEDA: знак вечности и «А» в центре."
+  "versionCode": 37,
+  "versionName": "1.36",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.36.apk",
+  "notes": "Новый главный экран: стих дня на картинке утра, дня, вечера или ночи, кольца дня с отметками прямо на экране, настроение одним касанием, быстрый вход с картинками."
 }
