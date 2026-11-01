@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.43",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.43.apk",
-  "notes": "В разделе «Я» новая плитка «Здоровье»: медкарта, лекарства, врачи, прививки и анализы с нормами, графиками и фото бланков. Плюс «Мои цели», меню на день, полезные и вредные привычки, «К чему прийти»."
+  "versionCode": 45,
+  "versionName": "1.44",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.44.apk",
+  "notes": "Раздел «Я» стал проще: три блока (Тело, Привычки и цели, Жизнь), без повторов. Новое: «Люди» — родные, друзья, коллеги с днями рождения и напоминаниями, и «Сон» с целью ложиться до 23:00."
 }
