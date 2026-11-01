@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.33.apk",
-  "notes": "«Духовная жизнь» в новом дизайне: картинки на плитках, правило дня и чтение Библии наверху, новые шапки у всех разделов."
+  "versionCode": 35,
+  "versionName": "1.34",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.34.apk",
+  "notes": "Новое: «Заметки и задачи» в «Земной жизни» — напоминание в нужное время, повтор, «Сделано» и «Отложить» прямо в уведомлении. Исправления: «Сегодня» закрыт от скриншотов, армянский на узких экранах, обновление после «Отмена», счётчик попыток пароля."
 }
