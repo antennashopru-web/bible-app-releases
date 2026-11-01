@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.41.apk",
-  "notes": "Новая вкладка «Я»: мои цели и 8 разделов — гигиена, вес, бросить курить, места, еда, траты, одежда, семья и любовь. А в «Земной жизни» — «Мои проекты»: папки и списки с галочками."
+  "versionCode": 44,
+  "versionName": "1.43",
+  "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-1.43.apk",
+  "notes": "В разделе «Я» новая плитка «Здоровье»: медкарта, лекарства, врачи, прививки и анализы с нормами, графиками и фото бланков. Плюс «Мои цели», меню на день, полезные и вредные привычки, «К чему прийти»."
 }
