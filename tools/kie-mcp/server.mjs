@@ -146,7 +146,7 @@ async function kieFetch(method, url, body) {
 function explainCode(code) {
   const map = {
     401: " (wrong or missing API key)",
-    402: " (not enough credits)",
+    402: " (на Kie кончились деньги: not enough credits, top up at https://kie.ai/billing)",
     422: " (invalid parameters: check model name and input fields)",
     429: " (rate limit: max 20 new tasks per 10 seconds)",
     455: " (service maintenance)",
