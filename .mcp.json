@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kie": {
+      "command": "node",
+      "args": ["tools/kie-mcp/server.mjs"]
+    }
+  }
+}
