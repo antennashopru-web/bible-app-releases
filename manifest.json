@@ -180,8 +180,8 @@
    ]
   },
   "kids/moisei": {
-   "v": "a60208a0b9a4",
-   "size": 1351376,
+   "v": "cf8857aa751b",
+   "size": 2822644,
    "files": [
     {
      "n": "moisei-1.webp",
@@ -232,6 +232,16 @@
      "n": "moisei-9.webp",
      "s": 134954,
      "h": "a8246cb0f3f53b9efbac6bea3b319cce9859d60b7e3732655abcbc88e53d9c45"
+    },
+    {
+     "n": "moisei.json",
+     "s": 1889,
+     "h": "cd2df92cbf916cf53032a894ab499f69815d57347233971e0494a766b5d3b893"
+    },
+    {
+     "n": "moisei.mp3",
+     "s": 1469379,
+     "h": "3c776b49d95791722ca03f50c1c12f398b0f9d9bb4d00260f6befec661bacfc5"
     }
    ]
   },
