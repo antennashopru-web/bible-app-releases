@@ -114,8 +114,8 @@
    ]
   },
   "kids/mir": {
-   "v": "457a21ef41cc",
-   "size": 2566346,
+   "v": "bf0f275fecc0",
+   "size": 2568099,
    "files": [
     {
      "n": "mir-1.webp",
@@ -166,6 +166,11 @@
      "n": "mir-9.webp",
      "s": 162684,
      "h": "ca23e896950ca01ffc90b95399b9c8f44eab2127c95c203437c8598bd7b0ded5"
+    },
+    {
+     "n": "mir.json",
+     "s": 1753,
+     "h": "1af14a8fe8c36090fc7800035b635331be81658238f66b4903421ab101cf196a"
     },
     {
      "n": "mir.mp3",
