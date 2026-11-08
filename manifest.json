@@ -2,8 +2,8 @@
  "format": 1,
  "packs": {
   "kids/daniil": {
-   "v": "377b2e28740e",
-   "size": 2781369,
+   "v": "22a5b9a44201",
+   "size": 2701182,
    "files": [
     {
      "n": "daniil-1.webp",
@@ -57,19 +57,19 @@
     },
     {
      "n": "daniil.json",
-     "s": 1921,
-     "h": "71fb16242e7945dd7a0a130291bf27379abd7d04907404e0f060d711ed8b3db5"
+     "s": 1930,
+     "h": "b2ad07018ea7e03670e3c10a78116e78359a7cfd2a24de8f9983abe42d8195ef"
     },
     {
      "n": "daniil.mp3",
-     "s": 1753384,
-     "h": "3667034ebc82b45699b19d5a037747f76d9208c48717d57e128d8ca376de5fa2"
+     "s": 1673188,
+     "h": "6453d95dbe020d3c0f0ea5afcc2ebb84a07d763a75d2772f2b5b820e038db7e6"
     }
    ]
   },
   "kids/iona": {
-   "v": "cf5669b99fb1",
-   "size": 3095114,
+   "v": "36b49c054fab",
+   "size": 3017548,
    "files": [
     {
      "n": "iona-1.webp",
@@ -123,19 +123,19 @@
     },
     {
      "n": "iona.json",
-     "s": 1939,
-     "h": "d7a5121af615caf13a71d2465f225c91a4b2f6ee128fc8e2450c135e38e37150"
+     "s": 1957,
+     "h": "49aa3375fa1dc6886ed5e371d419aff71d796a13b35ff01a50f9e41826fb1cd1"
     },
     {
      "n": "iona.mp3",
-     "s": 1866233,
-     "h": "02a240591e15b0a373431884fae649801a22c18f41a89b6c809711283aa1446c"
+     "s": 1788649,
+     "h": "85649fd1d03d16bcd2ef43ddd1c1429b3a8170f33ae92d7dc674099c57511f1e"
     }
    ]
   },
   "kids/mir": {
-   "v": "9bfa48eb4702",
-   "size": 2905498,
+   "v": "49aec2c89a41",
+   "size": 2906814,
    "files": [
     {
      "n": "mir-1.webp",
@@ -189,19 +189,19 @@
     },
     {
      "n": "mir.json",
-     "s": 1753,
-     "h": "1af14a8fe8c36090fc7800035b635331be81658238f66b4903421ab101cf196a"
+     "s": 1763,
+     "h": "5700bc784545bfe23ae983ae51af366dbd9eccf830c5290ead8f28b16ffdb017"
     },
     {
      "n": "mir.mp3",
-     "s": 1687033,
-     "h": "b13da64eac54d8af4b15b94861e94e4f685a978e8fd514ef8eae33373dc72106"
+     "s": 1688339,
+     "h": "5bc7e3fa03ccf2fcd46f3216cfc82997bfc58be37dda2f9fa4e80ac3a50e7c28"
     }
    ]
   },
   "kids/moisei": {
-   "v": "3dc55fe15a9a",
-   "size": 3189979,
+   "v": "6eac6e226077",
+   "size": 3163084,
    "files": [
     {
      "n": "moisei-1.webp",
@@ -255,19 +255,19 @@
     },
     {
      "n": "moisei.json",
-     "s": 1889,
-     "h": "cd2df92cbf916cf53032a894ab499f69815d57347233971e0494a766b5d3b893"
+     "s": 1900,
+     "h": "c929cfe85d185076b014a05406a5e5544e9802e58e244adb9a14b01c27864498"
     },
     {
      "n": "moisei.mp3",
-     "s": 1836714,
-     "h": "b7d94a6b9bc11b026d1d1292ef4bd6d20bad8215316e40af38ed81aaba765b99"
+     "s": 1809808,
+     "h": "375f376ec369df5df18f4fd7412282981af746c7f7f10473bff62154e4b83507"
     }
    ]
   },
   "kids/noj": {
-   "v": "17721d1db30e",
-   "size": 2853012,
+   "v": "3538d42d62a5",
+   "size": 2820353,
    "files": [
     {
      "n": "noj-1.webp",
@@ -321,19 +321,19 @@
     },
     {
      "n": "noj.json",
-     "s": 1735,
-     "h": "5379aa31d114bf2413aea38dbb0f502edee81c88d5a14b296bce40df3ddc0eb1"
+     "s": 1729,
+     "h": "dc20c971fe47d5594211f05c26076e5050361dbe6b03e462a5fcd8daa20c1fce"
     },
     {
      "n": "noj.mp3",
-     "s": 1677367,
-     "h": "c264d39ff6a7138087e606e592dcdb8e0214f6626ca85d61cf6358a28f006eec"
+     "s": 1644714,
+     "h": "cb6c31e8eb81a9da7ac23950d7609c78c8d37fc24b55d1c6fbfa4910f5268bf4"
     }
    ]
   },
   "kids/rozhdestvo": {
-   "v": "497f26781e71",
-   "size": 3122046,
+   "v": "4315c47fcf6c",
+   "size": 3002929,
    "files": [
     {
      "n": "rozhdestvo-1.webp",
@@ -387,19 +387,19 @@
     },
     {
      "n": "rozhdestvo.json",
-     "s": 2021,
-     "h": "b0778491e61c52f6bdc14715c3e3869ad98419b2c0e43ad062c4c67ca179fa96"
+     "s": 2023,
+     "h": "dffbac1403ed084888b30f5fc6d92fefb64853bbe475fc00f80cf1747fd48e89"
     },
     {
      "n": "rozhdestvo.mp3",
-     "s": 2053531,
-     "h": "282f815831a217902c8261005b516343d42058f4b0121a7ae12a93749bf1ac80"
+     "s": 1934412,
+     "h": "395cb35112240f97189cd099ccd97a21bcda01321fe27c4db257d1323971da01"
     }
    ]
   },
   "kids/voskres": {
-   "v": "887b72f094d7",
-   "size": 3206720,
+   "v": "b1518d9d1c68",
+   "size": 3153956,
    "files": [
     {
      "n": "voskres-1.webp",
@@ -453,13 +453,13 @@
     },
     {
      "n": "voskres.json",
-     "s": 1929,
-     "h": "145b8d2293ec6d5935fef0a487b8e910ac4f4d4633531d35e02f196535fc5539"
+     "s": 1933,
+     "h": "5275b79a642bc7bab161a80f7aae30052f91bf59f12808176b8094589cc46067"
     },
     {
      "n": "voskres.mp3",
-     "s": 2061629,
-     "h": "1c777b550d1d49a91ee277b68d1420daa889d738d6d02a9dfe16dcaffeb7a76d"
+     "s": 2008861,
+     "h": "ed985486720576a6717aa306c62f90b333a74863f807e85533bb7448e237f7a5"
     }
    ]
   }
