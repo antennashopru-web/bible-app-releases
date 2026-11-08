@@ -2,8 +2,8 @@
  "format": 1,
  "packs": {
   "kids/daniil": {
-   "v": "bc4a95880528",
-   "size": 2430700,
+   "v": "377b2e28740e",
+   "size": 2781369,
    "files": [
     {
      "n": "daniil-1.webp",
@@ -62,14 +62,14 @@
     },
     {
      "n": "daniil.mp3",
-     "s": 1402715,
-     "h": "019889752ec6ca217f837456d4f5abd127219eaf41d405e76293c95fd0fdf76a"
+     "s": 1753384,
+     "h": "3667034ebc82b45699b19d5a037747f76d9208c48717d57e128d8ca376de5fa2"
     }
    ]
   },
   "kids/iona": {
-   "v": "43948665ee8e",
-   "size": 2721875,
+   "v": "cf5669b99fb1",
+   "size": 3095114,
    "files": [
     {
      "n": "iona-1.webp",
@@ -128,14 +128,14 @@
     },
     {
      "n": "iona.mp3",
-     "s": 1492994,
-     "h": "10b8b58e9af645c626ac43d83b9f487e891c1518eaed661864d421f6fdbe53b6"
+     "s": 1866233,
+     "h": "02a240591e15b0a373431884fae649801a22c18f41a89b6c809711283aa1446c"
     }
    ]
   },
   "kids/mir": {
-   "v": "bf0f275fecc0",
-   "size": 2568099,
+   "v": "9bfa48eb4702",
+   "size": 2905498,
    "files": [
     {
      "n": "mir-1.webp",
@@ -194,14 +194,14 @@
     },
     {
      "n": "mir.mp3",
-     "s": 1349634,
-     "h": "c412271152f6fc02d5ab8a13fc5dc8781df7bb240d183489d957d03e54174232"
+     "s": 1687033,
+     "h": "b13da64eac54d8af4b15b94861e94e4f685a978e8fd514ef8eae33373dc72106"
     }
    ]
   },
   "kids/moisei": {
-   "v": "cf8857aa751b",
-   "size": 2822644,
+   "v": "3dc55fe15a9a",
+   "size": 3189979,
    "files": [
     {
      "n": "moisei-1.webp",
@@ -260,14 +260,14 @@
     },
     {
      "n": "moisei.mp3",
-     "s": 1469379,
-     "h": "3c776b49d95791722ca03f50c1c12f398b0f9d9bb4d00260f6befec661bacfc5"
+     "s": 1836714,
+     "h": "b7d94a6b9bc11b026d1d1292ef4bd6d20bad8215316e40af38ed81aaba765b99"
     }
    ]
   },
   "kids/noj": {
-   "v": "d5a85a475feb",
-   "size": 2517546,
+   "v": "17721d1db30e",
+   "size": 2853012,
    "files": [
     {
      "n": "noj-1.webp",
@@ -326,14 +326,14 @@
     },
     {
      "n": "noj.mp3",
-     "s": 1341901,
-     "h": "c124089e3f14a591698f4da642644c75c726a82d4d61ab1fa6e2b89f3ba915b9"
+     "s": 1677367,
+     "h": "c264d39ff6a7138087e606e592dcdb8e0214f6626ca85d61cf6358a28f006eec"
     }
    ]
   },
   "kids/rozhdestvo": {
-   "v": "d66811b490ba",
-   "size": 2711347,
+   "v": "497f26781e71",
+   "size": 3122046,
    "files": [
     {
      "n": "rozhdestvo-1.webp",
@@ -392,14 +392,14 @@
     },
     {
      "n": "rozhdestvo.mp3",
-     "s": 1642832,
-     "h": "15ce38594caa120829857954dba30ccbf52a1bb7b69c2e04a0103ef7518d3131"
+     "s": 2053531,
+     "h": "282f815831a217902c8261005b516343d42058f4b0121a7ae12a93749bf1ac80"
     }
    ]
   },
   "kids/voskres": {
-   "v": "188078140a50",
-   "size": 2794401,
+   "v": "887b72f094d7",
+   "size": 3206720,
    "files": [
     {
      "n": "voskres-1.webp",
@@ -458,8 +458,8 @@
     },
     {
      "n": "voskres.mp3",
-     "s": 1649310,
-     "h": "a513b67e2372aa7c18cc134c28348cb7b278a9a13c323ca1563dc87522c265cb"
+     "s": 2061629,
+     "h": "1c777b550d1d49a91ee277b68d1420daa889d738d6d02a9dfe16dcaffeb7a76d"
     }
    ]
   }
