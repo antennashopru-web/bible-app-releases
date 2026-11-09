@@ -1,1 +1,1 @@
-{"versionCode": 179, "versionName": "9.8", "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-9.8.apk", "notes": "Озвучка не замолкает при выключенном экране; рубаи из «Цитат» можно послушать; новая музыка в рубаи; Лупа в нижнем меню"}
+{"versionCode": 180, "versionName": "9.9", "apk": "https://raw.githubusercontent.com/antennashopru-web/bible-app-releases/main/bible-9.9.apk", "notes": "Внутренняя часть приложения переписана на Kotlin. Внешне всё как было; если что-то перестало работать — напиши, вернём 9.8."}
